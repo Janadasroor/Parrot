@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parrot</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="register_button">إنشاء حساب</string>
+    <string name="auth_error">خطأ في المصادقة</string>
+    <string name="welcome">مرحباً بعودتك</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login_error">خطأ في تسجيل الدخول</string>
+    <string name="no_account_question">ليس لديك حساب؟</string>
+    <string name="register_now">سجل الآن</string>
+    <string name="register_title">إنشاء حساب</string>
+    <string name="register_button_text">تسجيل</string>
+    <string name="already_have_account">لديك حساب بالفعل؟ تسجيل الدخول</string>
+    <string name="contact_phone">+1234567890</string>
+    <string name="contact_telegram">yourUsername</string>
+    <string name="contact_whatsapp">+1234567890</string>
+</resources>
