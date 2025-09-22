@@ -32,7 +32,8 @@ annotation class AuthRetrofit
 object NetworkModule {
 
 
-    internal const val BASE_URL = "https://your-server-api-url.com/"
+    internal const val BASE_URL = "https://your-server" +
+            "-api-url.com/"
     internal const val IMAGES_PATH = BASE_URL+"images/"
     internal const val VIDEOS_PATH = BASE_URL+"videos/"
     @Provides
